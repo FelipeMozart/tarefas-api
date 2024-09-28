@@ -57,6 +57,8 @@ Suponha que você queira acessar uma API que gerencia livros em uma biblioteca. 
 
 Em resumo, **endpoints** são os locais na API onde você faz requisições para acessar ou modificar dados, funcionando como o ponto de entrada para as funcionalidades da API.
 
+# Entenda a importância de um TW na sua documentação
+
 Aqui estão **três benefícios** de ter um **Technical Writer (TW)** especializado na documentação de API:
 
 ### 1. **Clareza e Consistência**
