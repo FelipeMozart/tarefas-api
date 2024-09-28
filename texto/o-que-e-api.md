@@ -16,6 +16,8 @@ Quando um programa quer acessar funcionalidades ou dados de outro sistema, ele f
 
 Saiba mais!
 
+# Entenda o que são Endpoints
+
 **Endpoints** são os "pontos de acesso" de uma **API**. Eles representam as **URLs específicas** ou **endereços** onde os clientes (aplicativos, sistemas ou usuários) podem fazer solicitações para interagir com os serviços oferecidos pela API.
 
 ### Explicando de Forma Simples:
